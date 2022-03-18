@@ -4,8 +4,13 @@ import './MainContents.scss';
 const MainContents = () => {
     return (
         <div className='main-contents'>
-            <h1>welcome</h1>
-            <div className='news'>
+            <div className='all-news'>
+                <div className='articles'>
+                    <h2>hello</h2>
+                </div>
+                <div className='sidebar'>
+                    <h2>gelo</h2>
+                </div>
 
             </div>
         </div>

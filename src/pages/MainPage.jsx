@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from '../components/Footer/Footer';
 import Header from '../components/Header/Header';
 import MainContents from '../components/MainContents/MainContents';
 
@@ -7,6 +8,7 @@ const MainPage = () => {
         <div>
             <Header />
             <MainContents />
+            <Footer />
         </div>
     );
 };
