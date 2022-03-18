@@ -1,0 +1,10 @@
+.main-contents {
+  width: 90%;
+  background-color: red;
+  margin: auto;
+}
+
+.news {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
